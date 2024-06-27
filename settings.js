@@ -2,13 +2,13 @@
 
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "media/profile.jpg", // Path ke favicon
+  favicon: "media/Aryo.jpg", // Path ke favicon
   title: "Ariyo Putra Pratama| Profile", // Judul halaman
   metaTitle: "Ariyo || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website Ariyo, Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "ariyo , aryo wangsaff , siapa aryo?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/profile.jpg", // Path ke gambar profil
+  imageSrc: "media/Aryo.jpg", // Path ke gambar profil
   name: "Aryo wangsaff", // Nama profil
   occupation: "Creator and Dev", // Pekerjaan atau jabatan
   location: "Jakarta, Jawa, Indonesia", // Lokasi
