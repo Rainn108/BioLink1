@@ -14,8 +14,8 @@ const profileSettings = {
   location: "Jakarta, Jawa, Indonesia", // Lokasi
   backgroundImage: "media/background.jpg", // Latar belakang halaman
   links: [
-    { title: "GitHub", url: "https://github.com/Rainn108", icon: "fa-github" }, // Tautan GitHub
-    { title: "LinkedIn", url: "https://www.linkedin.com/in/Ariyo", icon: "fa-linkedin" }, // Tautan LinkedIn
+    { title: "GitHub", url: "https://github.com/AryooWangsfff", icon: "fa-github" }, // Tautan GitHub
+    { title: "LinkedIn", url: "https://www.linkedin.com/in/", icon: "fa-linkedin" }, // Tautan LinkedIn
     { title: "Twitter", url: "https://twitter.com/Aryowangsaff", icon: "fa-twitter" }, // Tautan Twitter
     { title: "Instagram", url: "https://www.instagram.com/ariyopratama._?igsh=MWVheWMyeHNoNnBzdA==", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Telegram", url: "https://t.me/AryoWangsaff", icon: "fa-telegram" }, // Tautan Telegram
