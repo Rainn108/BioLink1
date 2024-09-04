@@ -21,7 +21,7 @@ const profileSettings = {
     { title: "Telegram", url: "https://t.me/AryoWangsaff", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto: ariyojkt221@gmail.com", icon: "fa-envelope" }, // Tautan Email
     { title: "WhatsApp", url: "https://wa.me/qr/H3PC7XD6SUNAI1", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "YouTube", url: "https://youtube.com/@Ariyowangsaff", icon: "fa-youtube" } // Tautan YouTube
+    { title: "YouTube", url: "https://youtube.com/@ariyowangsaffpipel?si=AepXMOcIjo4q4Ovb", icon: "fa-youtube" } // Tautan YouTube
   ]
 };
 
